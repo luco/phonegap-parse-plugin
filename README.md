@@ -1,3 +1,8 @@
+NO LONGER MAINTAINED
+====================
+
+Hi, I no longer maintain this repository, please see the upstream versions or one of the downstream versions that you can see from the pull requests. Sorry!
+
 Phonegap Parse.com Plugin
 =========================
 
