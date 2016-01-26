@@ -1,10 +1,7 @@
-NO LONGER MAINTAINED
-====================
-
-Hi, I no longer maintain this repository, please see the upstream versions or one of the downstream versions that you can see from the pull requests. Sorry!
-
-Phonegap Parse.com Plugin
+Phonegap Parse.com Plugin (iOS Only)
 =========================
+
+* THIS IS A FORK FROM https://github.com/benjie/phonegap-parse-plugin
 
 Phonegap 3.0.0 plugin for Parse.com push service
 
